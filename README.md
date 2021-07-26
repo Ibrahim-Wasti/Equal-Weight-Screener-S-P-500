@@ -1,1 +1,1 @@
-# Equal-Weight-Screener-S-P-500-
+# Equal-Weight-Screener-SP-500-
